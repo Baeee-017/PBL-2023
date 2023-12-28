@@ -1,0 +1,16 @@
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\bin\Debug\net6.0-windows\LabActivitypt2.exe
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\bin\Debug\net6.0-windows\LabActivitypt2.deps.json
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\bin\Debug\net6.0-windows\LabActivitypt2.runtimeconfig.json
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\bin\Debug\net6.0-windows\LabActivitypt2.dll
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\bin\Debug\net6.0-windows\LabActivitypt2.pdb
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.AssemblyInfo.cs
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.dll
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\refint\LabActivitypt2.dll
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.pdb
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.genruntimeconfig.cache
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\ref\LabActivitypt2.dll
+C:\Users\acer\source\repos\CSharpProjects\LabActivitypt2\LabActivitypt2\obj\Debug\net6.0-windows\LabActivitypt2.FormControl.resources
